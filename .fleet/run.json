@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "dotnet",
+            "name": "Searching Api",
+            "projectPath": "SearchingTemp.csproj",
+            "args": ["run"],
+            "environment": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+        },
+        
+    ]
+}

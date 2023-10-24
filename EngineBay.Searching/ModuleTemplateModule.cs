@@ -1,8 +1,8 @@
-namespace EngineBay.ModuleTemplate
+namespace EngineBay.Searching
 {
     using EngineBay.Core;
 
-    public class ModuleTemplateModule : BaseModule
+    public class SearchingModule : BaseModule
     {
         public override IServiceCollection RegisterModule(IServiceCollection services, IConfiguration configuration)
         {
